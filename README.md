@@ -1,9 +1,11 @@
-
 <!DOCTYPE HTML>
    <html>
- 
+   <head>
+      <title>Главная</title>
+      <meta charset="utf-8">
+   </head>
    <body>  
-      <p>black hole fun</p>
-      <a> https://yuriyky.github.io/www.blackhole.non-fan-page/</a>
+      <p>blackhole</p>
+      <a href="https://github.com/yuriyky/www.blackhole.non-fan-page">Подробнее</a>
    </body>
 </html>
