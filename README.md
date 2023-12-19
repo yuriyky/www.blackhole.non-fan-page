@@ -6,6 +6,6 @@
    </head>
    <body>  
       <p>blackhole</p>
-      <a href="https://github.com/yuriyky/www.blackhole.non-fan-page">Подробнее</a>
+      <a href="https://yuriyky.github.io/www.blackhole.non-fan-page/>Подробнее</a>
    </body>
 </html>
